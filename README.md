@@ -1,0 +1,1 @@
+I hope this makes it easy for anyone to start their AI journey. you can copy and paste the md file into the agent window in antigravity and it will start on its own or it will tell you what to do next. most of the instructions in the document can be done automatically since antigravity has access to terminal and browser. Happy travels!
